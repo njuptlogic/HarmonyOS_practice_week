@@ -1,0 +1,116 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#ffffff"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#f9fcfb"
+    },
+    {
+      "name": "action_button_background",
+      "value": "#169cd5"
+    },
+    {
+      "name": "dialog_cancel_background",
+      "value": "#D9001B"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "body_color",
+      "value": "#333333"
+    },
+    {
+      "name": "placeholder_background",
+      "value": "#eeeeee"
+    },
+    {
+      "name": "disabled_button_background",
+      "value": "#C2C2C2"
+    },
+    {
+      "name": "border_color",
+      "value": "#FF9B9B9B"
+    },
+    {
+      "name": "login_button",
+      "value": "#007DFF"
+    },
+    {
+      "name": "background",
+      "value": "#FFFD9FAD"
+    },
+    {
+      "name": "font",
+      "value": "#FF0C0C0C"
+    },
+    {
+      "name": "HomeFontTitle",
+      "value": "#FFF5B209"
+    },
+    {
+      "name": "HomeBox",
+      "value": "#FFF5D3D3"
+    },
+    {
+      "name": "buttonBorder",
+      "value": "#FFF50F97"
+    },
+    {
+      "name": "fontTitle",
+      "value": "#FFE9E7E7"
+    },
+    {
+      "name": "toolBar",
+      "value": "#FFF6CCCC"
+    },
+    {
+      "name": "toolBarFontNoChosen",
+      "value": "#FF030303"
+    },
+    {
+      "name": "toolBarFontChosen",
+      "value": "#FFFF0000"
+    },
+    {
+      "name": "topBar",
+      "value": "#FFF6CCCC"
+    },
+    {
+      "name": "button",
+      "value": "#FFFDCAF7"
+    },
+    {
+      "name": "buttonFont",
+      "value": "#fff"
+    },
+    {
+      "name": "TextInput",
+      "value": "#FFE0D6D6"
+    },
+    {
+      "name": "editPageBox",
+      "value": "#FFFADEDE"
+    },
+    {
+      "name": "selectedColor",
+      "value": "#92F8C9C9"
+    },
+    {
+      "name": "userName",
+      "value": "#fff"
+    },
+    {
+      "name": "userIP",
+      "value": "#FFCFC9C9"
+    },
+    {
+      "name": "userBoxBackground",
+      "value": "#c35b5959"
+    }
+  ]
+}

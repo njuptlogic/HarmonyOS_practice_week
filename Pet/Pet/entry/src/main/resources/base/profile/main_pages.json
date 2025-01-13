@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/account/register",
+    "pages/main/main",
+    "pages/account/forget",
+    "pages/settings/myInfo",
+    "pages/settings/help",
+    "pages/settings/about",
+    "pages/settings/band",
+    "pages/tabs/ChatHomePage"
+  ]
+}
